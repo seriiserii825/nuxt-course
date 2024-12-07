@@ -2,7 +2,5 @@
 
 <template>
   <PopupAlert />
-  <div class="">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni fugiat voluptatibus autem assumenda omnis culpa odit quas exercitationem corrupti qui, neque aspernatur sunt, cumque facilis eaque nostrum. Possimus, corporis dolore.
-  </div>
+  <NuxtImg width="1920" format="webp" quality="80" src="/images/Cities_Evening_Pskov_096474_.jpg" />
 </template>

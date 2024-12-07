@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white bg-blue-900 h-dvh">
+  <div class="h-screen text-white bg-slate-900">
     <FrontHeader />
     <slot />
   </div>
