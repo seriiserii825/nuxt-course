@@ -1,5 +1,7 @@
 <template>
   <div>
-    hello world for me and you
+    <NustLayout>
+      <NuxtPage />
+    </NustLayout>
   </div>
 </template>
